@@ -1,13 +1,6 @@
 package main
 
-import (
-	"database/sql"
-	"math/rand"
-	"testing"
-	"time"
 
-	"github.com/stretchr/testify/require"
-)
 
 var (
 	// randSource источник псевдо случайных чисел.
